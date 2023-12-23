@@ -12,7 +12,7 @@ After a preliminary univariate analysis, the dataset has been splitted into two 
 with a value of quality less or equal than 5 has been classied as bad wine (low quality), on
 the contrary a wine with a value of quality more than 5 has been classied as good wine (high
 quality). The relationship between each physiochemical property and quality, low or high, has
-been investigated. Then, three different models have been tted using the training dataset: a
+been investigated. Then, three different models have been tted using the training dataset: a
 logistic regression model, a classication trees model and a neural networks model. Then, after a
 comparison between the three models, the best one has been chosen and tested on the validation
 dataset.
